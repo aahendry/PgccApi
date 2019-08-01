@@ -1,0 +1,3 @@
+CSV to JSON parsing, could be useful for rinks/fixtures/results.
+https://www.papaparse.com/
+
